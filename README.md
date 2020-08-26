@@ -1,6 +1,6 @@
 # Loja
 
-## loja-mysql foi construída para cadastrar:**
+## loja-mysql foi construída para cadastrar:
 
  - Clientes
  - Produtos
